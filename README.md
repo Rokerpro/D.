@@ -1,2 +1,2 @@
-# D-
-a very very simple programmig language made using pytoj
+# D?
+a very very simple programmig language made using python
